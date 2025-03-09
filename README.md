@@ -1,6 +1,6 @@
 # uv-band
 Arduino based uv level detection wristband. School project.
-![the device](./images/device.png)
+![the device](images/device.png)
 
 # Hardware
 - Microcontroller - Arduino Pro Mini 328
@@ -19,18 +19,18 @@ Arduino based uv level detection wristband. School project.
 # Android app
 The application was made in the online tool - App Inventor.
 ## Device selection
-![device selection](./images/pl-slide1.png)
+![device selection](images/pl-slide1.png)
 ## Data download process
-![download process](./images/pl-slide2.png)
+![download process](images/pl-slide2.png)
 ## Data presentation
 ### Temperature diagram
-![temperature diagram](./images/pl-slide3.png)
+![temperature diagram](images/pl-slide3.png)
 ### Humitity diagram
-![humidity chadiagramrt](./images/pl-slide4.png)
+![humidity chadiagramrt](images/pl-slide4.png)
 ### Pressure diagram
-![pressure diagram](./images/pl-slide5.png)
+![pressure diagram](images/pl-slide5.png)
 ### UV index diagram
-![UV index diagram](./images/pl-slide6.png)
+![UV index diagram](images/pl-slide6.png)
 
 # Arduino sketch dependencies
 List of required libraries. Since the project was completed five years ago as of the writing this file I will verify them as soon as I have access to the hardware.
