@@ -1,4 +1,4 @@
-# uv-band
+# uv-band (May 2019)
 Arduino based uv level detection wristband. School project.
 ![the device](images/device.png)
 
